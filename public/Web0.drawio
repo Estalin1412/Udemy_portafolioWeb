@@ -41,16 +41,25 @@
           <mxGeometry x="204" y="-80" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T8Xv3cssepLBzFLuWM8g-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="220" width="430" height="180" as="geometry" />
+          <mxGeometry x="90" y="230" width="420" height="90" as="geometry" />
         </mxCell>
         <mxCell id="T8Xv3cssepLBzFLuWM8g-13" value="Img" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" parent="1" vertex="1">
-          <mxGeometry x="110" y="240" width="110" height="110" as="geometry" />
+          <mxGeometry x="100" y="240" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T8Xv3cssepLBzFLuWM8g-14" value="Imagenes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" parent="1" vertex="1">
-          <mxGeometry x="240" y="240" width="120" height="110" as="geometry" />
+          <mxGeometry x="204" y="240" width="76" height="70" as="geometry" />
         </mxCell>
         <mxCell id="he2NPY8yUSenZWAoKytD-1" value="" style="ellipse;whiteSpace=wrap;html=1;container=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="85" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0DSb249LTHU2Y63Ll6PR-1" value="Prod destacados" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0DSb249LTHU2Y63Ll6PR-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="T8Xv3cssepLBzFLuWM8g-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="180" as="sourcePoint" />
+            <mxPoint x="30" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
